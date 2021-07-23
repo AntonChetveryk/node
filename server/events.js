@@ -10,7 +10,7 @@ class Test extends Emmiter {
   }
 }
 
-// In data come payload from emitter (second arg)
+// In data come payload from emitter (second arg) => `Hello ${name}`
 
 const test = new Test();
 
